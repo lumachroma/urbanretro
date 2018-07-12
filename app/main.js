@@ -6,7 +6,7 @@
         'transitions': '../lib/durandal/js/transitions',
         'knockout': '../lib/knockout/knockout-3.4.0',
         'bootstrap': 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min',
-        'jquery': '../lib/jquery/jquery-3.1.1'
+        'jquery': 'https://code.jquery.com/jquery-3.3.1.slim.min'
     },
     shim: {
         'bootstrap': {
