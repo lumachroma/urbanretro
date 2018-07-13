@@ -7,6 +7,7 @@ Urban Retro Website
   - [Durandal](http://durandaljs.com/)
     - [RequireJS](http://requirejs.org/)
     - [Knockout](http://knockoutjs.com/)
+    - [jQuery](http://jquery.com/)
   - [Bootstrap](http://getbootstrap.com/)
 - Platforms:
     - [Firebase](http://firebase.google.com/)
